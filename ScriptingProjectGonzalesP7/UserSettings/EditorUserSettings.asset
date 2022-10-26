@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 5a5757560101590a5d0c0e24427b5d44434e4c7a7b7a23677f2b4565b7b5353a
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 570107515305500b5a5f587b44770c4441151e722a7b236679781c65bab1656a
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5401030453025b5d5f080a271475074413164f2e7d2e71697c7e1f37e0e6666b
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 020501575d0259585a5e5c7144735d4447161c7d2a2b2760287e4860e0e46c61
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 57550d5751020d0c545b547640760944474e1c7a797b2034782b4b37e0e36d6a
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 545201510350080f0c0b592646250a444e151b7e7d2a73652f7b1c63b6b96c69
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 3
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
